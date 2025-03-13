@@ -3,7 +3,7 @@
 </p>
 
 # About Me
-___
+
 * Third-year computer engineering student.
 * I am interested in learning about data science and computer vision.
 * [My Linkedin](https://www.linkedin.com/in/enzo-fernandez11/)
