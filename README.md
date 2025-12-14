@@ -4,5 +4,5 @@
 
 # About Me
 
-* Third-year computer engineering student.
+* Fourth-year computer engineering student.
 * [My Linkedin](https://www.linkedin.com/in/enzo-fernandez11/)
